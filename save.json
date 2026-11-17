@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tom",
+        "hunger": 32,
+        "health": 100,
+        "boredom": 5,
+        "exhaustion": 1,
+        "alive": true
+    },
+    {
+        "name": "Jerry",
+        "hunger": 96,
+        "health": 40,
+        "boredom": 86,
+        "exhaustion": 31,
+        "alive": true
+    },
+    {
+        "name": "Kev",
+        "hunger": 100,
+        "health": 0,
+        "boredom": 66,
+        "exhaustion": 66,
+        "alive": false
+    }
+]
